@@ -1,2 +1,1 @@
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+[![SC2 Video](https://i.ibb.co/NxVM5ZH/Captura-de-tela-de-2020-08-14-12-05-51.png)](https://youtu.be/3vAtU1OBHLY)
